@@ -1,0 +1,9 @@
+langchain
+langsmith
+chromadb
+sentence-transformers
+openai
+sklearn
+transformers
+torch
+opencv-python
