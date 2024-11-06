@@ -1,9 +1,14 @@
-langchain
-langsmith
+# requirements.txt
+pytube
+yt-dlp
+moviepy
+whisper
 chromadb
 sentence-transformers
+langchain
 openai
-sklearn
-transformers
-torch
 opencv-python
+langchain_openai
+huggingface_hub
+pytubefix
+langchain_community
